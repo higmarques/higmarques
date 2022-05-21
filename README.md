@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Higor Marques</h1>
-- 🔭 I’m currently working on **Storage Mainframe.**
+- 🔭 I’m currently working on Storage Mainframe.
 
-- 🌱 I’m currently learning **Data Science Projects.**
+- 🌱 I’m currently learning Data Science Projects.
 
-- 👯 I’m looking to collaborate on **data science.**
+- 👯 I’m looking to collaborate on data science.
 
 - 📫 How to reach me **hig.marques@hotmail.com**
 
